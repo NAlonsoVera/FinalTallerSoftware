@@ -1,1 +1,0 @@
-print("Aquí colocar el triángulo")
